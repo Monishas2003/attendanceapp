@@ -1,0 +1,17 @@
+C:\Users\comp\source\repos\dhruva\dhruva\bin\Debug\net6.0-windows\dhruva.exe
+C:\Users\comp\source\repos\dhruva\dhruva\bin\Debug\net6.0-windows\dhruva.deps.json
+C:\Users\comp\source\repos\dhruva\dhruva\bin\Debug\net6.0-windows\dhruva.runtimeconfig.json
+C:\Users\comp\source\repos\dhruva\dhruva\bin\Debug\net6.0-windows\dhruva.dll
+C:\Users\comp\source\repos\dhruva\dhruva\bin\Debug\net6.0-windows\dhruva.pdb
+C:\Users\comp\source\repos\dhruva\dhruva\obj\Debug\net6.0-windows\dhruva.csproj.AssemblyReference.cache
+C:\Users\comp\source\repos\dhruva\dhruva\obj\Debug\net6.0-windows\dhruva.Form1.resources
+C:\Users\comp\source\repos\dhruva\dhruva\obj\Debug\net6.0-windows\dhruva.csproj.GenerateResource.cache
+C:\Users\comp\source\repos\dhruva\dhruva\obj\Debug\net6.0-windows\dhruva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comp\source\repos\dhruva\dhruva\obj\Debug\net6.0-windows\dhruva.AssemblyInfoInputs.cache
+C:\Users\comp\source\repos\dhruva\dhruva\obj\Debug\net6.0-windows\dhruva.AssemblyInfo.cs
+C:\Users\comp\source\repos\dhruva\dhruva\obj\Debug\net6.0-windows\dhruva.csproj.CoreCompileInputs.cache
+C:\Users\comp\source\repos\dhruva\dhruva\obj\Debug\net6.0-windows\dhruva.dll
+C:\Users\comp\source\repos\dhruva\dhruva\obj\Debug\net6.0-windows\refint\dhruva.dll
+C:\Users\comp\source\repos\dhruva\dhruva\obj\Debug\net6.0-windows\dhruva.pdb
+C:\Users\comp\source\repos\dhruva\dhruva\obj\Debug\net6.0-windows\dhruva.genruntimeconfig.cache
+C:\Users\comp\source\repos\dhruva\dhruva\obj\Debug\net6.0-windows\ref\dhruva.dll

@@ -1,0 +1,15 @@
+C:\Users\comp\source\repos\charan\charan\bin\Debug\net6.0\charan.exe
+C:\Users\comp\source\repos\charan\charan\bin\Debug\net6.0\charan.deps.json
+C:\Users\comp\source\repos\charan\charan\bin\Debug\net6.0\charan.runtimeconfig.json
+C:\Users\comp\source\repos\charan\charan\bin\Debug\net6.0\charan.dll
+C:\Users\comp\source\repos\charan\charan\bin\Debug\net6.0\charan.pdb
+C:\Users\comp\source\repos\charan\charan\obj\Debug\net6.0\charan.csproj.AssemblyReference.cache
+C:\Users\comp\source\repos\charan\charan\obj\Debug\net6.0\charan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comp\source\repos\charan\charan\obj\Debug\net6.0\charan.AssemblyInfoInputs.cache
+C:\Users\comp\source\repos\charan\charan\obj\Debug\net6.0\charan.AssemblyInfo.cs
+C:\Users\comp\source\repos\charan\charan\obj\Debug\net6.0\charan.csproj.CoreCompileInputs.cache
+C:\Users\comp\source\repos\charan\charan\obj\Debug\net6.0\charan.dll
+C:\Users\comp\source\repos\charan\charan\obj\Debug\net6.0\refint\charan.dll
+C:\Users\comp\source\repos\charan\charan\obj\Debug\net6.0\charan.pdb
+C:\Users\comp\source\repos\charan\charan\obj\Debug\net6.0\charan.genruntimeconfig.cache
+C:\Users\comp\source\repos\charan\charan\obj\Debug\net6.0\ref\charan.dll

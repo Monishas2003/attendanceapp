@@ -1,0 +1,15 @@
+C:\Users\comp\source\repos\sadath4\sadath4\bin\Debug\net6.0\sadath4.exe
+C:\Users\comp\source\repos\sadath4\sadath4\bin\Debug\net6.0\sadath4.deps.json
+C:\Users\comp\source\repos\sadath4\sadath4\bin\Debug\net6.0\sadath4.runtimeconfig.json
+C:\Users\comp\source\repos\sadath4\sadath4\bin\Debug\net6.0\sadath4.dll
+C:\Users\comp\source\repos\sadath4\sadath4\bin\Debug\net6.0\sadath4.pdb
+C:\Users\comp\source\repos\sadath4\sadath4\obj\Debug\net6.0\sadath4.csproj.AssemblyReference.cache
+C:\Users\comp\source\repos\sadath4\sadath4\obj\Debug\net6.0\sadath4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comp\source\repos\sadath4\sadath4\obj\Debug\net6.0\sadath4.AssemblyInfoInputs.cache
+C:\Users\comp\source\repos\sadath4\sadath4\obj\Debug\net6.0\sadath4.AssemblyInfo.cs
+C:\Users\comp\source\repos\sadath4\sadath4\obj\Debug\net6.0\sadath4.csproj.CoreCompileInputs.cache
+C:\Users\comp\source\repos\sadath4\sadath4\obj\Debug\net6.0\sadath4.dll
+C:\Users\comp\source\repos\sadath4\sadath4\obj\Debug\net6.0\refint\sadath4.dll
+C:\Users\comp\source\repos\sadath4\sadath4\obj\Debug\net6.0\sadath4.pdb
+C:\Users\comp\source\repos\sadath4\sadath4\obj\Debug\net6.0\sadath4.genruntimeconfig.cache
+C:\Users\comp\source\repos\sadath4\sadath4\obj\Debug\net6.0\ref\sadath4.dll

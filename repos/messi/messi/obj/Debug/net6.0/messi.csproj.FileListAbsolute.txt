@@ -1,0 +1,15 @@
+C:\Users\comp\source\repos\messi\messi\bin\Debug\net6.0\messi.exe
+C:\Users\comp\source\repos\messi\messi\bin\Debug\net6.0\messi.deps.json
+C:\Users\comp\source\repos\messi\messi\bin\Debug\net6.0\messi.runtimeconfig.json
+C:\Users\comp\source\repos\messi\messi\bin\Debug\net6.0\messi.dll
+C:\Users\comp\source\repos\messi\messi\bin\Debug\net6.0\messi.pdb
+C:\Users\comp\source\repos\messi\messi\obj\Debug\net6.0\messi.csproj.AssemblyReference.cache
+C:\Users\comp\source\repos\messi\messi\obj\Debug\net6.0\messi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comp\source\repos\messi\messi\obj\Debug\net6.0\messi.AssemblyInfoInputs.cache
+C:\Users\comp\source\repos\messi\messi\obj\Debug\net6.0\messi.AssemblyInfo.cs
+C:\Users\comp\source\repos\messi\messi\obj\Debug\net6.0\messi.csproj.CoreCompileInputs.cache
+C:\Users\comp\source\repos\messi\messi\obj\Debug\net6.0\messi.dll
+C:\Users\comp\source\repos\messi\messi\obj\Debug\net6.0\refint\messi.dll
+C:\Users\comp\source\repos\messi\messi\obj\Debug\net6.0\messi.pdb
+C:\Users\comp\source\repos\messi\messi\obj\Debug\net6.0\messi.genruntimeconfig.cache
+C:\Users\comp\source\repos\messi\messi\obj\Debug\net6.0\ref\messi.dll

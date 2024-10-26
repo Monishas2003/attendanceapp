@@ -1,0 +1,15 @@
+C:\Users\comp\source\repos\arithmatic\arithmatic\obj\Debug\net6.0\arithmatic.csproj.AssemblyReference.cache
+C:\Users\comp\source\repos\arithmatic\arithmatic\obj\Debug\net6.0\arithmatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comp\source\repos\arithmatic\arithmatic\obj\Debug\net6.0\arithmatic.AssemblyInfoInputs.cache
+C:\Users\comp\source\repos\arithmatic\arithmatic\obj\Debug\net6.0\arithmatic.AssemblyInfo.cs
+C:\Users\comp\source\repos\arithmatic\arithmatic\obj\Debug\net6.0\arithmatic.csproj.CoreCompileInputs.cache
+C:\Users\comp\source\repos\arithmatic\arithmatic\bin\Debug\net6.0\arithmatic.exe
+C:\Users\comp\source\repos\arithmatic\arithmatic\bin\Debug\net6.0\arithmatic.deps.json
+C:\Users\comp\source\repos\arithmatic\arithmatic\bin\Debug\net6.0\arithmatic.runtimeconfig.json
+C:\Users\comp\source\repos\arithmatic\arithmatic\bin\Debug\net6.0\arithmatic.dll
+C:\Users\comp\source\repos\arithmatic\arithmatic\bin\Debug\net6.0\arithmatic.pdb
+C:\Users\comp\source\repos\arithmatic\arithmatic\obj\Debug\net6.0\arithmatic.dll
+C:\Users\comp\source\repos\arithmatic\arithmatic\obj\Debug\net6.0\refint\arithmatic.dll
+C:\Users\comp\source\repos\arithmatic\arithmatic\obj\Debug\net6.0\arithmatic.pdb
+C:\Users\comp\source\repos\arithmatic\arithmatic\obj\Debug\net6.0\arithmatic.genruntimeconfig.cache
+C:\Users\comp\source\repos\arithmatic\arithmatic\obj\Debug\net6.0\ref\arithmatic.dll

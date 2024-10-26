@@ -1,0 +1,15 @@
+C:\Users\comp\source\repos\vbv\vbv\bin\Debug\net6.0\vbv.exe
+C:\Users\comp\source\repos\vbv\vbv\bin\Debug\net6.0\vbv.deps.json
+C:\Users\comp\source\repos\vbv\vbv\bin\Debug\net6.0\vbv.runtimeconfig.json
+C:\Users\comp\source\repos\vbv\vbv\bin\Debug\net6.0\vbv.dll
+C:\Users\comp\source\repos\vbv\vbv\bin\Debug\net6.0\vbv.pdb
+C:\Users\comp\source\repos\vbv\vbv\obj\Debug\net6.0\vbv.csproj.AssemblyReference.cache
+C:\Users\comp\source\repos\vbv\vbv\obj\Debug\net6.0\vbv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comp\source\repos\vbv\vbv\obj\Debug\net6.0\vbv.AssemblyInfoInputs.cache
+C:\Users\comp\source\repos\vbv\vbv\obj\Debug\net6.0\vbv.AssemblyInfo.cs
+C:\Users\comp\source\repos\vbv\vbv\obj\Debug\net6.0\vbv.csproj.CoreCompileInputs.cache
+C:\Users\comp\source\repos\vbv\vbv\obj\Debug\net6.0\vbv.dll
+C:\Users\comp\source\repos\vbv\vbv\obj\Debug\net6.0\refint\vbv.dll
+C:\Users\comp\source\repos\vbv\vbv\obj\Debug\net6.0\vbv.pdb
+C:\Users\comp\source\repos\vbv\vbv\obj\Debug\net6.0\vbv.genruntimeconfig.cache
+C:\Users\comp\source\repos\vbv\vbv\obj\Debug\net6.0\ref\vbv.dll
